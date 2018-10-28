@@ -32,3 +32,8 @@ Disp “Nullity” Tells the user what to expect.
 L1(2)-Y This stores the column number into the variable Y.
 
 Disp Y-Z This subtracts the Column number from the rank to get the nullity.
+
+I made a short video testing the program with three problems from chapter 4.6. I have not found a matrix for which this fails, even mxn matrices work, though I am not sure for all cases. Definitely for all cases of nxn matrices it will work though.
+If you don’t understand it read up on the documentation for TI-BASIC. http://tibasicdev.wikidot.com/home
+
+https://streamable.com/2eptv
