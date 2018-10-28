@@ -1,0 +1,16 @@
+rref([A])->[A]
+dim([A])->L1
+L1(1)->X
+0->R
+For(A,1,X)
+rowSwap([A],1,X)->[A]
+Matr>list([A]T,L2)
+If (sum(L2)=0)
+R+1->R
+End
+X-R->Z
+Disp "Rank A"
+Disp Z
+Disp “Nullity”
+L1(2)-Y
+Disp Y-Z
