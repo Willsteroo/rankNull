@@ -1,5 +1,5 @@
 # rankNull
-A small program for finding the rank and nullity of any matrix size 99x99 or less.
+A small program for finding the rank and nullity of any matrix size 99x99 or less using TI-BASIC
 Here is some explanation:
 
 rref([A])->[A] This takes the matrix [A], row reduces it, and stores the row reduced version into the matrix [A]. It replaces [A] with it's row reduced version.
